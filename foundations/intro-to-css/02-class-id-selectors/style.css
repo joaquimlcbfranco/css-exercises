@@ -1,13 +1,9 @@
 .red-background {
     background-color: #ffa7a7;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
 
-.verdana {
-    font-family: Verdana, sans-serif;
-}
-
-.dejavu-sans {
-    font-family: 'DejaVu Sans', sans-serif;
+.font-adjust {
     font-size: 24px;
 }
 
